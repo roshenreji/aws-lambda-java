@@ -1,4 +1,4 @@
-package com.techprimers.aws;
+package com.roshen.aws;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;

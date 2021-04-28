@@ -1,4 +1,4 @@
-package com.techprimers.aws;
+package com.roshen.aws;
 
 import java.util.Map;
 
